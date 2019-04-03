@@ -1,1 +1,1 @@
-"FROM gcr.io/google_containers/etcd-amd64:2.2.5"
+FROM k8s.gcr.io/kube-proxy-amd64:v1.14.0
